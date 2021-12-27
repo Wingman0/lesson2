@@ -1,0 +1,11 @@
+body { 
+    background: -webkit-linear-gradient(90deg, rgb(211, 214, 30) 10%, rgb(212, 78, 78) 55%, rgb(34, 242, 242) 92%);
+background: -moz-linear-gradient(90deg, rgb(211, 214, 30) 10%, rgb(212, 78, 78) 55%, rgb(34, 242, 242) 92%);
+background: linear-gradient(90deg, rgb(211, 214, 30) 10%, rgb(212, 78, 78) 55%, rgb(34, 242, 242) 92%);
+    color: rgb(34, 31, 31);
+    font-family: 'Montserrat', sans-serif;
+}
+img {
+    width: 170px;
+    height: 220px
+}
